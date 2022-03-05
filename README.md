@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliffHadeni
 - 👀 I’m interested in learning and enchance my knowledge in Data Engineering and Data Analysis
-- 🌱 I’m currently learning about data engineering
+- 🌱 I’m currently learning about the data engineering and data analytics
 - 💞️ I’m looking to collaborate on mini project related to data analyst and data engineer
 - 📫 How to reach me can reach me at LinkedIn : Aliff Hadeni
 
